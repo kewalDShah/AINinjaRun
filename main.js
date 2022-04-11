@@ -173,4 +173,5 @@ function movement() {
 function generateRandomNumber(min, max) { 
   num  = Math.random() * (max - min) + min;
   randomNumber = Math.floor(num);
-}
+} 
+
